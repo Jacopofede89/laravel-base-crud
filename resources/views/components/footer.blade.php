@@ -1,3 +1,3 @@
 <footer>
-    <h1>Footer</h1>
+    <h6>copyright by</h6>
 </footer>
